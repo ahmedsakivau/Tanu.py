@@ -1,1 +1,3 @@
-# Tanu.py
+# Tanu.py 
+
+cd tanu.py
